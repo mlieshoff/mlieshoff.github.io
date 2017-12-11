@@ -1,0 +1,15 @@
+---
+layout: post
+title: (Bash) Enabling History
+---
+
+```
+/etc/inputrc
+```
+
+```
+# alternate mappings for "page up" and "page down" to search the history
+"\e[5~": history-search-backward
+"\e[6~": history-search-forward
+```
+
