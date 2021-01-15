@@ -63,3 +63,11 @@ h1 ,h2 {
   margin-right: 15px; }
 
 /*# sourceMappingURL=style.css.map */
+
+canvas {
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+}
