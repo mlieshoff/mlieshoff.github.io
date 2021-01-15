@@ -1,18 +1,35 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<head>
+  <meta charset="UTF-8">
+  <title>Michael Lieshoff | Homepage</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .async-hide {
+      opacity: 0 !important
+    }
+  </style>
+</head>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<body>
+<div id="background"></div>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<div class="container">
+  <h1>Michael Lieshoff</h1>
+  <h2 class="subtitle commonraven">( mlieshoff )</h2>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+  <div class="images">
+    <a href="https://github.com/mlieshoff" target="_blank" data-tippy="GitHub" data-tippy-animation="scale"
+       data-tippy-arrow="false" data-tippy-delay="[0, 150]" data-tippy-placement="left"
+       onclick="ga('send', 'event', 'Link', 'Github', 'link', 1);"><img src="./asset/github2.svg"></a>
+
+    <a href="https://www.linkedin.com/in/michael-lieshoff-893306103" target="_blank" data-tippy="Linkedin"
+       data-tippy-animation="scale" data-tippy-arrow="false" data-tippy-delay="[0, 150]"
+       data-tippy-placement="top" onclick="ga('send', 'event', 'Linkedin Link', 'link', 1);"><img
+            src="./asset/linkedin.svg"></a>
+  </div>
 </div>
+</body>
+
+</html>

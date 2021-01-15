@@ -9,7 +9,7 @@ title: (Maven) Setting up bintray
         <server>
           <id>bintray</id>
           <username>GITHUB-USER</username>
-          <password>HITHUB-TOKEN</password>
+          <password>GITHUB-TOKEN</password>
         </server>
     </servers>
     <profiles>
