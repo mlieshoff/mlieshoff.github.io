@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# About
-
 > My cool quote
 > 
 >  *Quote said by XXX*
