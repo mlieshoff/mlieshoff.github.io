@@ -1,10 +1,6 @@
-> My cool quote
+> You have power over your mind - not outside events. Realize this, and you will find strength.
 > 
->  *Quote said by XXX*
+>  *Quote said by Marcus Aurelius, Meditations*
 
-
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This site is about a mix of software developing and life and dogs. But i will try to
+focus on software development. Lets see :)

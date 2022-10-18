@@ -3,6 +3,10 @@ layout: page
 title: Archive
 ---
 
+> Ten thousand years of peace begins today.
+>
+>  *The last line of Palpatine's Declaration of a New Order*
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>

@@ -3,16 +3,21 @@ layout: page
 title: Links
 ---
 
-> My cool quote
+> When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.
 >
->  *Quote said by XXX*
+>  *Marcus Aurelius*
 
-# Principles
+# Software Development
 
+## Principles
 https://betterprogramming.pub/solid-principles-with-almost-real-life-examples-in-java-b292a4e2c18b
 
-# Testing
+## Testing
+
+### UI
 https://smashtest.io/
 
-# bash
+## bash
+
+### Functions
 https://www.baeldung.com/linux/run-function-in-script
