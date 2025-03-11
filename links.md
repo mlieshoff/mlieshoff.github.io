@@ -3,9 +3,9 @@ layout: page
 title: Links
 ---
 
-> When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.
+> "When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love."
 >
->  *Marcus Aurelius*
+>  ―Marcus Aurelius
 
 # Software Development
 

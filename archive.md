@@ -3,9 +3,9 @@ layout: page
 title: Archive
 ---
 
-> Ten thousand years of peace begins today.
->
->  *The last line of Palpatine's Declaration of a New Order*
+> "The happiness of your life depends upon the quality of your thoughts."
+> 
+> ―Marcus Aurelius, Meditations
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
