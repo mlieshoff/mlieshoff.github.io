@@ -25,7 +25,15 @@ https://www.baeldung.com/linux/run-function-in-script
 
 ## Researches
 
+### Structure Research Results
+
+[Zotero](www.zotero.org)
+
+### Scientific
+
 [Google-Scholar](https:scholar.google.de)
+
+### Personal
 
 [Aleph OCCRP](https://aleph.occrp.org/)
 
@@ -50,6 +58,8 @@ geolocation:<lon><lat>:15km
 ``
 
 ### Images
+
+[KI Image Check](https://www.whichfaceisreal.com)
 
 #### Search
 
